@@ -1,0 +1,16 @@
+push 1
+push 2
+back
+pop
+back 
+pop
+back 
+pop
+push 4
+push 5
+push 7
+clear 
+back 
+pop
+exit
+pop
