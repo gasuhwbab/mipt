@@ -1,0 +1,6 @@
+5
+insert 5
+getMin
+extractMin
+insert 10
+getMin
